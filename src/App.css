@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font: 'Open Sans Condensed';
+  padding: 20px 60px;
+}
+
+a {
+  text-decoration: none;
+  color:black;
+}
